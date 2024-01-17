@@ -139,7 +139,16 @@ const c6 = document.getElementById('c6');
 const c7 = document.getElementById('c7');
 const c8 = document.getElementById('c8');
 
-
+const g0 = document.getElementById('topbar');
+const g1 = document.getElementById('nav');
+const g2 = document.getElementById('header');
+const g3 = document.getElementById('about');
+const g4 = document.getElementById('service');
+const g5 = document.getElementById('feature');
+const g6 = document.getElementById('team');
+const g7 = document.getElementById('appointment');
+const g8 = document.getElementById('testimonial');
+const g9 = document.getElementById('footer');
 
 
 const img1 = document.getElementById('img1');
@@ -174,6 +183,10 @@ function updateContent(element, newValue) {
   function updateImageSrc(imageElement, newSrc) {
     // Update the src attribute of the image element
     imageElement.src = newSrc;
+}
+function updateBackgroundColor(element, newColor) {
+  // Update the background color for the element
+  element.style.backgroundColor = newColor;
 }
 
   
@@ -300,23 +313,21 @@ function updateContent(element, newValue) {
             updateContent(f16, jsonData.footer.f16);
             updateContent(f17, jsonData.footer.f17);
             updateContent(f18, jsonData.footer.f18);
+          
             
-            updateContent(p0, jsonData.page.p0);
-            updateContent(p1, jsonData.page.p1);
-            updateContent(p2, jsonData.page.p2);
-            updateContent(p3, jsonData.page.p3);
             
-            updateContent(c1, jsonData.conatct.c1);
-            updateContent(c2, jsonData.conatct.c2);
-            updateContent(c3, jsonData.conatct.c3);
-            updateContent(c4, jsonData.conatct.c4);
-            updateContent(c5, jsonData.conatct.c5);
-            updateContent(c6, jsonData.conatct.c6);
-            updateContent(c7, jsonData.conatct.c7);
-            updateContent(c8, jsonData.conatct.c8);
 
             
-            
+            updateBackgroundColor(g0, jsonData.color.topbar);
+            updateBackgroundColor(g1, jsonData.color.nav);
+            updateBackgroundColor(g2, jsonData.color.header);
+            updateBackgroundColor(g3, jsonData.color.about);
+            updateBackgroundColor(g4, jsonData.color.service);
+            updateBackgroundColor(g5, jsonData.color.feature);
+            updateBackgroundColor(g6, jsonData.color.team);
+            updateBackgroundColor(g7, jsonData.color.appointment);
+            updateBackgroundColor(g8, jsonData.color.testimonial);
+            updateBackgroundColor(g9, jsonData.color.footer);
         
 
             updateImageSrc(img1, jsonData.images.img1);
@@ -339,10 +350,22 @@ function updateContent(element, newValue) {
             if (fileName === 'index.html') {
                
             } else if (fileName === 'contact.html') {
+              updateContent(c1, jsonData.conatct.c1);
+            updateContent(c2, jsonData.conatct.c2);
+            updateContent(c3, jsonData.conatct.c3);
+            updateContent(c4, jsonData.conatct.c4);
+            updateContent(c5, jsonData.conatct.c5);
+            updateContent(c6, jsonData.conatct.c6);
+            updateContent(c7, jsonData.conatct.c7);
+            updateContent(c8, jsonData.conatct.c8);
                
             } else if (fileName === 'about.html') {
 
             } else if (fileName === '404.html') {
+              updateContent(p0, jsonData.page.p0);
+              updateContent(p1, jsonData.page.p1);
+              updateContent(p2, jsonData.page.p2);
+              updateContent(p3, jsonData.page.p3);
 
             } else if (fileName === 'appointment.html') {
 

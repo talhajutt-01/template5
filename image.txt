@@ -1,0 +1,16 @@
+{ "images": {
+        "img1": "img/carousel-1.jpg",
+        "img2": "img/carousel-2.jpg",
+        "img3": "img/carousel-3.jpg",
+        "img4": "img/about-1.jpg",
+        "img5": "img/about-2.jpg",
+        "img6": "img/feature.jpg",
+        "img7": "img/team-1.jpg",
+        "img8": "img/team-2.jpg",
+        "img9": "img/team-3.jpg",
+        "img10": "img/team-4.jpg",
+        "img11": "img/testimonial-1.jpg",
+        "img12": "img/testimonial-2.jpg",
+        "img13": "img/testimonial-3.jpg"
+    }
+}

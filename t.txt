@@ -156,6 +156,19 @@
         "c8":"The contact form is currently inactive. Get a functional and working contact form with Ajax and PHP in a few minutes. Just copy and paste the files, add a little code and you're done.Download Now"
      },
 
+      "color":{
+        "topbar":"grey",
+        "nav":"red",
+        "header":"grey",
+        "about":"red",
+        "service":"red",
+        "feature":"grey",
+        "team":"red",
+        "appointment":"grey",
+        "testimonial":"red",
+        "footer":"red"
+     },
+
 
      "images": {
         "img1": "img/carousel-1.jpg",
