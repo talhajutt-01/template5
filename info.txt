@@ -1,0 +1,212 @@
+{
+    "title": {
+        "title": "Updated Klinik - Clinic Website Template"
+    },
+
+     "nav": {
+	//another section all elements are link and heading is text
+        "heading": "Updated Klinik",
+        "nav0": "home",
+        "nav1": "About",
+        "nav2": "Service",
+        "nav3": "Pages",
+        "nav4": "Feature",
+        "nav5": "Our Doctor",
+        "nav6": "Appointment",
+        "nav7": "Testimonial",
+        "nav8": "404 Page",
+        "nav9": "Contact",
+        "nav10": "Appointment"
+    },
+    "header":{
+	//another section all elements are text
+        "h0":"Updated Good Health Is The Root Of All Heppiness",
+        "h1":"Updated Expert Doctors",
+        "h2":"Updated 1234",
+        "h3":"Updated Medical Stuff",
+        "h4":"Updated 12345",
+        "h5":"Updated Total Patients",
+        "h6":"Updated Cardiology",
+        "h7":"Updated Neurology",
+        "h8":"Updated Pulmonary"
+    },
+
+    "about":{
+	//another section all elements are text and a7 is button
+        "a0":"update About",
+        "a1":"update Why You Should Trust Us? Get Know About Us!",
+        "a2":"update Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+        "a3":"Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos.",
+        "a4":"Quality health care",
+        "a5":"Only Qualified Doctors",
+        "a6":"Medical Research Professionals",
+        "a7":"Updated Read More"
+    },
+
+    "service":{
+	//another section all elements are text and s4,s7,s10,s13,s16,s19 are button or links
+        "s0":"updated Services",
+        "s1":"updated Health Care Solutions",
+        "s2":"updated Cardiology",
+        "s3":"Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+        "s4":"Read More",
+        "s5":"Pulmonary",
+        "s6":"Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+        "s7":"Read More",
+        "s8":"Neurology",
+        "s9":"Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+        "s10":"Read More",
+        "s11":"Orthopedics",
+        "s12":"Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+        "s13":"Read More",
+        "s14":"Dental Surgery",
+        "s15":"Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+        "s16":"Read More",
+        "s17":"Laboratory",
+        "s18":"Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
+        "s19":"Read More"
+     },
+
+     "feature":{
+	//another section all elements are text
+        "fe0":"update feature",
+        "fe1":"update Why Choose Us",
+        "fe2":"update Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet",
+        "fe3":"Experience",
+        "fe4":"Doctors",
+        "fe5":"Quality",
+        "fe6":"Services",
+        "fe7":" updates Positive",
+        "fe8":"Consultation",
+        "fe9":"24 Hours",
+        "fe10":"Support"
+    
+     },
+
+     "team" : {
+	//another section all elements are text
+        "te0":"updated Doctors",
+        "te1":"updated Our Experience Doctors",
+        "te2":"updated Doctor Name",
+        "te3":"updated Department",
+        "te4":"updated Doctor Name",
+        "te5":"updated Department",
+        "te6":"updated Doctor Name",
+        "te7":"updated Department",
+        "te8":"updated Doctor Name",
+        "te9":"updated Department"
+     },
+     
+     "appointment":{
+	//another section all elements are text
+        "b0":"update Appointment",
+        "b1":"Make An Appointment To Visit Our Doctor",
+        "b2":"Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+        "b3":"Call us",
+        "b4":"+012 345 672872",
+        "b5":"Mail Us Now",
+        "b6":"ieo@gmail.com"
+     },
+
+     "testimonial": {
+	//another section all elements are text
+        "t0":"update Testimonial",
+        "t1":"What Say Our Patients!",
+        "t2":"Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.",
+        "t3":"Patient Name",
+        "t4":"Profession",
+        "t5":"Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.",
+        "t6":"Patient Name",
+        "t7":"Profession",
+        "t8":"Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.",
+        "t9":"Patient Name",
+        "t10":"Profession"
+     },
+
+     "footer":{
+	//another section all elements are text and f11,f12,f13,f14,f15 are button or link
+        "f0":"updatee Address",
+        "f1":"123 Street, New York, USA",
+        "f2":"+012 345 67890",
+        "f3":"info@example.com",
+        "f4":"Services",
+        "f5":"Cardiology",
+        "f6":"Pulmonary",
+        "f7":"Neurology",
+        "f8":"Orthopedics",
+        "f9":"Laboratory",
+        "f10":"Quick Links",
+        "f11":"About Us",
+        "f12":"Contact Us",
+        "f13":"Our Services",
+        "f14":"Terms and Condition",
+        "f15":"Support",
+        "f16":"Newsletter",
+        "f17":"Dolor amet sit justo amet elitr clita ipsum elitr est.",
+        "f18":"our Site Name, All Right Reserved."
+     },
+
+     "page":{
+	//another section all elements are text and p3 is link or button
+        "p0":"updated 404",
+        "p1":"Page Not Found",
+        "p2":"We’re sorry, the page you have looked for does not exist in our website! Maybe go to our home page or try to use a search?",
+        "p3":"Go Back To Home"
+     },
+
+     "contact":{
+	//another section all elements are text
+        "c0":"update Address",
+        "c1":"123 Street, New York, USA",
+        "c2":"Call Us Now",
+        "c3":"+012 345 67892",
+        "c4":"Mail Us Now",
+        "c5":"info@example.com",
+        "c6":"Contact Us",
+        "c7":"Have Any Query? Please Contact Us!",
+        "c8":"The contact form is currently inactive. Get a functional and working contact form with Ajax and PHP in a few minutes. Just copy and paste the files, add a little code and you're done.Download Now"
+     },
+
+      "color":{
+	//change colors of sections
+        "topbar":"grey",
+        "nav":"red",
+        "header":"grey",
+        "about":"red",
+        "service":"red",
+        "feature":"grey",
+        "team":"red",
+        "appointment":"grey",
+        "testimonial":"red",
+        "footer":"red"
+     },
+
+
+     "images": {
+	//images of carousel section
+        "img1": "img/carousel-1.jpg",
+        "img2": "img/carousel-2.jpg",
+        "img3": "img/carousel-3.jpg",
+
+	//iamges of about section
+        "img4": "img/about-1.jpg",
+        "img5": "img/about-2.jpg",
+
+	//iamges of feature section
+        "img6": "img/feature.jpg",
+
+
+	//iamges of team section
+        "img7": "img/team-1.jpg",
+        "img8": "img/team-2.jpg",
+        "img9": "img/team-3.jpg",
+        "img10": "img/team-4.jpg",
+
+
+	//iamges of testimonial section
+        "img11": "img/testimonial-1.jpg",
+        "img12": "img/testimonial-2.jpg",
+        "img13": "img/testimonial-3.jpg"
+    }
+
+}
