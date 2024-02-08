@@ -4,7 +4,7 @@
     },
 
      "nav": {
-        "heading": "Updated Klinik",
+        "heading": "Klinik",
         "nav0": "home",
         "nav1": "About",
         "nav2": "Service",
@@ -18,32 +18,32 @@
         "nav10": "Appointment"
     },
     "header":{
-        "h0":"Updated Good Health Is The Root Of All Heppiness",
-        "h1":"Updated Expert Doctors",
-        "h2":"Updated 1234",
-        "h3":"Updated Medical Stuff",
-        "h4":"Updated 12345",
-        "h5":"Updated Total Patients",
-        "h6":"Updated Cardiology",
-        "h7":"Updated Neurology",
-        "h8":"Updated Pulmonary"
+        "h0":"Good Health Is The Root Of All Heppiness",
+        "h1":"Expert Doctors",
+        "h2":"1234",
+        "h3":"Medical Stuff",
+        "h4":"12345",
+        "h5":"Total Patients",
+        "h6":"Cardiology",
+        "h7":"Neurology",
+        "h8":"Pulmonary"
     },
 
     "about":{
-        "a0":"update About",
-        "a1":"update Why You Should Trust Us? Get Know About Us!",
-        "a2":"update Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+        "a0":"About",
+        "a1":"Why You Should Trust Us? Get Know About Us!",
+        "a2":"Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
         "a3":"Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos.",
         "a4":"Quality health care",
         "a5":"Only Qualified Doctors",
         "a6":"Medical Research Professionals",
-        "a7":"Updated Read More"
+        "a7":"Read More"
     },
 
     "service":{
-        "s0":"updated Services",
-        "s1":"updated Health Care Solutions",
-        "s2":"updated Cardiology",
+        "s0":"Services",
+        "s1":"Health Care Solutions",
+        "s2":"Cardiology",
         "s3":"Erat ipsum justo amet duo et elitr dolor, est duo duo eos lorem sed diam stet diam sed stet.",
         "s4":"Read More",
         "s5":"Pulmonary",
@@ -64,14 +64,14 @@
      },
 
      "feature":{
-        "fe0":"update feature",
-        "fe1":"update Why Choose Us",
-        "fe2":"update Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet",
+        "fe0":"feature",
+        "fe1":"Why Choose Us",
+        "fe2":"Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet",
         "fe3":"Experience",
         "fe4":"Doctors",
         "fe5":"Quality",
         "fe6":"Services",
-        "fe7":" updates Positive",
+        "fe7":" Positive",
         "fe8":"Consultation",
         "fe9":"24 Hours",
         "fe10":"Support"
@@ -79,20 +79,20 @@
      },
 
      "team" : {
-        "te0":"updated Doctors",
-        "te1":"updated Our Experience Doctors",
-        "te2":"updated Doctor Name",
-        "te3":"updated Department",
-        "te4":"updated Doctor Name",
-        "te5":"updated Department",
-        "te6":"updated Doctor Name",
-        "te7":"updated Department",
-        "te8":"updated Doctor Name",
-        "te9":"updated Department"
+        "te0":"Doctors",
+        "te1":"Our Experience Doctors",
+        "te2":"Doctor Name",
+        "te3":"Department",
+        "te4":"Doctor Name",
+        "te5":"Department",
+        "te6":"Doctor Name",
+        "te7":"Department",
+        "te8":"Doctor Name",
+        "te9":"Department"
      },
      
      "appointment":{
-        "b0":"update Appointment",
+        "b0":"Appointment",
         "b1":"Make An Appointment To Visit Our Doctor",
         "b2":"Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
         "b3":"Call us",
@@ -102,7 +102,7 @@
      },
 
      "testimonial": {
-        "t0":"update Testimonial",
+        "t0":"Testimonial",
         "t1":"What Say Our Patients!",
         "t2":"Clita clita tempor justo dolor ipsum amet kasd amet duo justo duo duo labore sed sed. Magna ut diam sit et amet stet eos sed clita erat magna elitr erat sit sit erat at rebum justo sea clita.",
         "t3":"Patient Name",
@@ -116,7 +116,7 @@
      },
 
      "footer":{
-        "f0":"updatee Address",
+        "f0":"Address",
         "f1":"123 Street, New York, USA",
         "f2":"+012 345 67890",
         "f3":"info@example.com",
@@ -138,14 +138,14 @@
      },
 
      "page":{
-        "p0":"updated 404",
+        "p0":"404",
         "p1":"Page Not Found",
         "p2":"We’re sorry, the page you have looked for does not exist in our website! Maybe go to our home page or try to use a search?",
         "p3":"Go Back To Home"
      },
 
      "contact":{
-        "c0":"update Address",
+        "c0":"Address",
         "c1":"123 Street, New York, USA",
         "c2":"Call Us Now",
         "c3":"+012 345 67892",
@@ -157,16 +157,16 @@
      },
 
       "color":{
-        "topbar":"grey",
-        "nav":"red",
-        "header":"grey",
-        "about":"red",
-        "service":"red",
-        "feature":"grey",
-        "team":"red",
-        "appointment":"grey",
-        "testimonial":"red",
-        "footer":"red"
+        "topbar":".",
+        "nav":".",
+        "header":".",
+        "about":".",
+        "service":".",
+        "feature":".",
+        "team":".",
+        "appointment":".",
+        "testimonial":".",
+        "footer":"."
      }
 
 }
